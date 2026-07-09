@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701019520397",
+    "project_id": "siply-359cf",
+    "storage_bucket": "siply-359cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701019520397:android:c2eeca399ca879f23d11c4",
+        "android_client_info": {
+          "package_name": "com.example.siply_queue_skip_ordering_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrWJdsQMByGxSCbpCMTNjCRusEpYG8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701019520397:android:5866fa68692117b03d11c4",
+        "android_client_info": {
+          "package_name": "siply.package"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrWJdsQMByGxSCbpCMTNjCRusEpYG8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
